@@ -1,0 +1,28 @@
+name: Raymond Redfern Photography
+favicon: null
+layout_spectrum: 0.507172980112955
+typography_spectrum: 0.7636030598077923
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.32346459617838264
+  lightness: 0.7209336527157575
+  saturation: 0.6807550515513867
+  rhythmicContrast: 0.36954299127683043
+purpose: []
